@@ -1,4 +1,3 @@
-
 # Vanilla App Template
 
 Bu proje Vite kullanılarak oluşturulmuştur. Ek özelliklerin tanınması ve özelleştirilmesi için [belgelere bakın](https://vitejs.dev/).
